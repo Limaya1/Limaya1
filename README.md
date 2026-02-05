@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Limaya1
+- 👋 Hi, I’m @Cristiano244
 - 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and sql
 - 💞️ I’m looking to collaborate on projects and just have fun while doing it 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
